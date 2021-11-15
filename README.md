@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Maher
-- 🎨 I’m interested in Arts, Technology and Data at the intersection 
-- 🌱 I’m currently learning about Analytics Engineer 
-- 🧠 I’m looking to connect with people involvede in any of the topics mentioned above ⏫
 - 📫 Feel free to connect https://www.linkedin.com/in/maher-ayari-77478a10a/
 
 <!---
